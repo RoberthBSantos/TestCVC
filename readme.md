@@ -14,13 +14,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Postgres](https://www.postgresql.org/download/) e [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com) e [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 Além disto é bom ter um editor para trabalhar com o código como [IntelliJ](https://www.jetbrains.com/pt-br/id) ou [VSCode](https://code.visualstudio.com/).
 
 ### Setup
 
 1. Instalar o [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
 2. Configurar a variavel de ambiente **JAVA_HOME** para a pasta de instalação da sua versão do JDK.
+3. Clonar o projeto.
+4. Executar o projeto.
 
 ## Endpoint
 
